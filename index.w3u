@@ -1,0 +1,327 @@
+{
+"name": "Mi TV",
+"author": "Actualizada 010323",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
+"info": "This list does not host its own content, it just collects existing links. No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue. However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link.To remove this content from the web, you should contact the web host that's actually hosting the content (not the maintainers of this repository).",
+"image": "https://c.tenor.com/q80_DoRce1MAAAAd/tv-no-signal.gif",
+"groups":
+[
+{
+"name": "AceSport",
+"image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+"groups":
+[
+{
+"name": "⚽️ Copa del Rey - Final",
+"image": "https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/104",
+"import":true
+},
+{
+"name": "Deporte Español",
+"image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/105",
+"import":true
+},
+{
+"name": "Mov+ IPTV Deportes",
+"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/112",
+"import":true
+},
+{
+"name": "⚽️ La Liga",
+"image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/102",
+"import":true
+},
+{
+"name": "⚽️ Champions League",
+"image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/103",
+"import":true
+},
+{
+"name": "⚽️ RFEF 1º y 2º",
+"image": "https://footters.com/wp-content/uploads/2021/08/primerarfeffootters1.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/114",
+"import":true
+},
+{
+"name": "Websport Chucky",
+"image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
+"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+"import":true
+},
+{
+"name": "Deporte Extranjeros",
+"image": "https://img.freepik.com/premium-vector/world-television-logo-template-design-vector-emblem-design-concept-creative-symbol-icon_316488-2269.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/106",
+"import":true
+},
+{
+"name": "F1/MotoGP/WRC",
+"image": "https://www.hoteleuropasevilla.com/img/textareas/logo.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/107",
+"import":true
+},
+{
+"name": "🏀 NBA",
+"image": "https://cutewallpaper.org/26/basketball-gif-wallpaper/eanseong-kim-kimeanseong-profile-pinterest.gif",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/108",
+"import":true
+},
+{
+"name": "Padel",
+"image": "https://i.pinimg.com/236x/0b/b1/d9/0bb1d95799601287d7737f6173955a26.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/109",
+"import":true
+},
+{
+"name": "Tenis",
+"image": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/110",
+"import":true
+},
+{
+"name": "MLB",
+"image": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/111",
+"import":true
+}
+]
+},
+{
+"name": "Movistar+ 24h IPTV",
+"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/201",
+"import":true
+},
+{
+"name": "TDT CHANNELS",
+"image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
+"url": "https://www.tdtchannels.com/lists/tvradio.w3u",
+"import":true
+},
+{
+"name": "Películas a la carta",
+"image": "https://i.kinja-img.com/gawker-media/image/upload/s--ZQ36YslT--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/wdka33ttfclnwzzfnwg9.gif",
+"groups":
+[
+{
+"name": "Cine Acestream ",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url": "https://raw.githubusercontent.com/richardguiri/p/main/p",
+"import":true
+},
+{
+"name": "Chucky Cine MP4",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+"import":true
+},
+{
+"name": "Español MP4",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/308",
+"import":true
+},
+{
+"name": "Inglés Subtituladas MP4",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/304",
+"import":true
+},
+{
+"name": "Pelis Latino MP4",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/309",
+"import":true
+},
+{
+"name": "Cine Aces Resp ext act",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/301",
+"import":true
+},
+{
+"name": "Marvel",
+"image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/302",
+"import":true
+},
+{
+"name": "24h/7d",
+"image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/306",
+"import":true
+},
+{
+"name": "English VOD",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url": "https://raw.githubusercontent.com/bharing19/MyTv/main/VodEnglish.m3u",
+"import":true
+}
+]
+},
+{
+"name": "Series a la carta",
+"image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+"groups":
+[
+{
+"name": "Series Acestream 1",
+"image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+"url": "https://raw.githubusercontent.com/richardguiri/s/main/s",
+"import":true
+},
+{
+"name": "Series Acestream 2",
+"image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+"url": "https://raw.githubusercontent.com/richardguiri/s1/main/s1",
+"import":true
+},
+{
+"name": "Series Aces Resp Ext Act",
+"image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/305",
+"import":true
+}
+]
+},
+{
+"name": "Plataformas de Vídeo",
+"image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
+"groups":
+[
+{
+"name": "Canales Plataformas",
+"image": "https://www.mundoplus.tv/wp-content/uploads/2021/04/plataformas_streaming.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/401",
+"import":true
+},
+{
+"name": "Pluto TV",
+"image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
+"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u",
+"import":true
+},
+{
+"name": "Plex TV",
+"image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+"url": "https://i.mjh.nz/Plex/all.m3u8",
+"import":true
+},
+{
+"name": "Samsung TV",
+"image": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg",
+"url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+"import":true
+},
+{
+"name": "Rakuten TV",
+"image": "https://img.tuttoandroid.net/wp-content/uploads/2017/12/rakuten_logo.png",
+"url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u",
+"import":true
+},
+{
+"name": "Rad TV",
+"image": "https://cdn6.aptoide.com/imgs/7/6/4/76436b1bdd314d4e4a50e5509ace1114_icon.png",
+"url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
+"import":true
+},
+{
+"name": "Runtime TV",
+"image": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
+"url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u/RuntimeTV_tv.w3u",
+"import":true
+},
+{
+"name": "Canela TV",
+"image": "https://image.roku.com/developer_channels/prod/95dcad8a035461c358f340b30b669a51f235dbb4223e3510e4c59c7069f2ccfd.png",
+"url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
+"import":true
+},
+{
+"name": "Fluxus TV Esp",
+"image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
+"url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/zXx7KB/794c6bf68209f580dddc7bdcb53e2230c7b25375/files/FTV-ESP",
+"import":true
+},
+{
+"name": "Fluxus TV Eng",
+"image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
+"url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/70f0278409b7ef263d112247400c340ce157b523/files/FTV-ENG",
+"import":true
+},
+{
+"name": "VIDAA TV Hisense",
+"image": "https://mma.prnewswire.com/media/1062941/Vidaa.jpg?p=original",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/413",
+"import":true
+},
+{
+"name": "Xiaomi TV",
+"image": "https://cdn.kalingatv.com/wp-content/uploads/2019/01/Xiaomi-Logo-750x430.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/414",
+"import":true
+},
+{
+"name": "DISTRO TV",
+"image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/02/DistroTV-logo.png?fit=1200%2C675&ssl=1",
+"url": "https://raw.githubusercontent.com/bharing19/DistroTV/master/DistroTv_Aug.m3u",
+"import":true
+}
+]
+},
+{
+"name": "TV RESPALDO",
+"image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"groups":
+[
+{
+"name": "TV IPTV",
+"image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/205",
+"import":true
+},
+{
+"name": "TV MIX",
+"image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"url": "https://raw.githubusercontent.com/vicentegithublista/vicen/05b3ecaf374d822ae9f526ae712db48e2b43c000/lista%2015112022.m3u",
+"import":true
+},
+{
+"name": "TV MIX 2",
+"image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"url": "https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
+"import":true
+},
+{
+"name": "TV MIX 3",
+"image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"url": "https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
+"import":true
+},
+{
+"name": "TV extranjeros",
+"image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"url": "https://raw.githubusercontent.com/markymac5/Mcast/b7706e96d2ab7fcf71ce5ed074ae7c051bdf143f/PLAYLIST_ALL.m3u",
+"import":true
+}
+]
+},
+{
+"name": "Cine Oeste y Clásicos",
+"image": "https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20221214T044911.png",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/307",
+"import":true
+},
+{
+"name": "Toros",
+"image": "http://www.touroeouro.com/assets/stores/1022/uploads/o_article_15771.jpg",
+"url": "https://raw.githubusercontent.com/barryteve/1/main/113",
+"import":true
+}
+]
+}
